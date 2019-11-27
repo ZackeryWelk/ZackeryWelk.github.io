@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: rgb(30, 27, 199);
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
@@ -157,6 +157,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.35em;
 		line-height: 1.5em;
+		font-weight: bold;
 	}
 
 	h4 {
